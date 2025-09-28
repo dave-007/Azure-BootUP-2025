@@ -1,6 +1,6 @@
 # Course Schedule
 
-This is the high-level course schedule. Weekend sessions run from 9am to at most 1PM EST, with at least 1 15 minute break.
+This is the high-level course schedule. Saturday sessions run from 2PM to 6PM EST, with at least 1 15 minute break. Sunday sessions run from 10AM to 2PM.
 Additional details such as descriptions of covered topics, homework, and capstone project descriptions are in the section-specific folders.
 Homework is always due the first day of any weekend.
 
