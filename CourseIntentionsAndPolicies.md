@@ -22,19 +22,20 @@ I will be looking for the following qualifications:
 Required from you: 
 1.	Course Fee: $397. This is intended to be a substantial enough investment to be motivating while still a better value than the same courses from a live training provider.
 2.	Time:
-    1.	The overall course run time is 10 weeks. During this time, we will have live interactive class sessions on Saturday and Sunday of most weeks, starting at 9AM EST and running for 4 hours at most. The weeks when we do not have class are gaps intended for you to take the certification exam.
+    1.	The overall course run time is 10 weeks. During this time, we will have live interactive class sessions on Saturday and Sunday as per the course schedule.
         1. Saturdays will generally be devoted to demos and instructor-lead sessions. 
         2. Sundays will function as free-form office hours, Q&A, and some supplemental content. 
     2.	There will be homework. Some parts of the homework will be absolutely required. I will not chase you to find out if you have done it, I expect you to be an adult on this. I will be explicit if not completing a specific assignment requires you to get in touch with me. 
     3.	Overall, this is probably 15-20 hours per week of work, depending on where you are starting from.
     4.	If desired, specific study/review sessions will be scheduled around 7PM EST on weekdays.    
 3.	Azure Costs: You will be responsible for your own environment and spending. There are good tools available to prevent a disaster. You should be prepared to spend $200 or so here but this very much depends on how you use your own environment.
-4.	Certification costs: $165 for AZ-104. I will make you aware of any discounts I become aware of. If you work for a large organization already using Azure, you may have something called the Enterprise Skills Initiative that will give you a discount.
+4.	Certification costs: $165 for AZ-104. I will make you aware of any discounts I become aware of. If you work for a large organization already using Azure, you may have something called the Enterprise Skills Initiative that will give you a discount. 
 5.  A computer from which you can access Azure. This should be a personal rather than work computer, we will be using tools that are easier to use if you have local administrator privileges. Windows is preferred but only due to my greater familiarity, everything we are doing should be fine on a Mac or Linux system. 
  
 ## Policies & Rules
 1.	Do the work. This is our most important rule.
-    1.	I have a strong suspicion that the adage “you are/become what you do” is true.  
+    1.	I have a strong suspicion that the adage “you are/become what you do” is true.
+    2.	You are expected to register for the AZ-104 exam within 1 month of the course ending, no later than 3 weeks after the start of the course. This is for you; this makes the course more real, and I will be following up with you about this.   
 2.	Have a good time and breathe. This is your own practice and learning time. You are expected to make mistakes and struggle here. Ask for help. 
     1.	I will not be perfect. I will make mistakes. But I will also do everything possible to recover from them. 
 3.	Be a good human being. I will actively remove from the environment anyone who brings the group down. No politics, no religion, no hate, and maintain a generally professional demeanor. If you need to vent feel free to message me personally. 
