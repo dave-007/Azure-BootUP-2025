@@ -4,6 +4,10 @@ This is the high-level course schedule. Saturday sessions run from 2PM to 6PM ES
 Additional details such as descriptions of covered topics, homework, and capstone project descriptions are in the section-specific folders.
 Homework is always due the first day of any weekend.
 
+updated the dates here: 
+
+https://docs.google.com/spreadsheets/d/15k67pQLCv_1WjOr5gouKe-GNgnTA7rjm0dzW853pUjA/edit?usp=drivesdk
+
 | Date       | Topic
 | -----------|-----------------------------------------------------------------------------
 | 10/11/2025 | Manage Identity, Understand the Two RBACs, Resource Hierarchy
